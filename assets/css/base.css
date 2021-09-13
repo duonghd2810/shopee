@@ -63,6 +63,7 @@ button {
   bottom: 0;
   display: flex;
   animation: fadeIn linear 0.2s;
+  z-index: 100;
 }
 .modal__overlay {
   position: absolute;
